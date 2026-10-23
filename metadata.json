@@ -1,0 +1,6 @@
+{
+  "name": "Flash - Dual-Channel Android Downloader",
+  "description": "High-speed Android downloader utilizing Wi-Fi and 5G cellular data simultaneously with multi-segment parallel slicing to maximize bandwidth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
